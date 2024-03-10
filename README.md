@@ -1,4 +1,4 @@
-AIM:- It will be all in one portal for employees.
+This project will handle all employees.
 
 Technologies used for the project
 1.BACKEND :- SPRING BOOT 
